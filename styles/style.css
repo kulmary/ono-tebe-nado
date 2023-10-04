@@ -327,7 +327,6 @@
 .about__logo-image {
     width: 148px;
     height: 114px;
-    background-image: url(../images/logo-white.svg);
 }
 
 .about__title {
@@ -411,7 +410,7 @@
     list-style-type: none;
 }
 
-.footer__social-link {}
+/*.footer__social-link {}*/
 
 .footer__social-icon {
     width: 48px;
